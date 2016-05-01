@@ -1,0 +1,2 @@
+# konnitichiwa-sekai
+First repository
