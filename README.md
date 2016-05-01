@@ -1,2 +1,3 @@
 # konnitichiwa-sekai
-First repository
+
+I've had Nimono this morning.
